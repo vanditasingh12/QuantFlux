@@ -9,7 +9,7 @@
 * Generate realistic financial data via regime-aware DDPM models
 * Learn dynamic portfolio strategies that adapt to changing market regimes
 * Optimize allocations using advanced reinforcement learning methods (PPO)
-* Incorporate real-world constraints: transaction costs, position limits, diversification
+* Incorporate real-world constraints: transaction costs, position limits, diversifications
 * Provide an explainable pipeline with regime attribution, allocation diagnostics, and benchmarking
 
 ---
