@@ -1,6 +1,6 @@
-# Fintrix: Reinforcement Learning Portfolio Optimization System
+# QuantFlux: Reinforcement Learning Portfolio Optimization System
 
-**Fintrix** is a modular, research-grade framework for training and evaluating reinforcement learning-based portfolio allocation strategies. It is powered by Proximal Policy Optimization (PPO) and integrates synthetic financial data generation using Denoising Diffusion Probabilistic Models (DDPM). Designed to be interpretable, extensible, and robust, Fintrix is an ideal tool for researchers, quants, and AI engineers looking to build smarter financial agents.
+**QuantFlux** is a modular, research-grade framework for training and evaluating reinforcement learning-based portfolio allocation strategies. It is powered by Proximal Policy Optimization (PPO) and integrates synthetic financial data generation using Denoising Diffusion Probabilistic Models (DDPM). Designed to be interpretable, extensible, and robust, QuantFlux is an ideal tool for researchers, quants, and AI engineers looking to build smarter financial agents.
 
 ---
 
@@ -62,7 +62,7 @@
 ## 🧱 Repository Structure
 
 ```
-Fintrix/
+QuantFlux/
 ├── assets/            # Charts, diagrams, performance outputs
 ├── config/            # Training configs and constants
 ├── data/              # Data loader, feature calculator, DDPM pipeline
@@ -89,10 +89,10 @@ Fintrix/
 ### Create Environment:
 
 ```bash
-git clone https://github.com/yourusername/fintrix.git
-cd fintrix
-conda create -n fintrix python=3.10
-conda activate fintrix
+git clone https://github.com/yourusername/QuantFlux.git
+cd QuantFlux
+conda create -n QuantFlux python=3.10
+conda activate QuantFlux
 pip install -r requirements.txt
 ```
 
@@ -171,9 +171,9 @@ Includes:
 
 ## ⚠️ Disclaimer
 
-> Fintrix is developed strictly for **educational and research purposes**.
+> QuantFlux is developed strictly for **educational and research purposes**.
 >
-> **Do NOT use Fintrix for live or real-money trading.**
+> **Do NOT use QuantFlux for live or real-money trading.**
 >
 > There are no guarantees of future performance, reliability, or correctness. Use entirely at your own risk.
 
@@ -185,9 +185,6 @@ MIT License. See [LICENSE](LICENSE) for full details.
 
 ---
 
-##  Connect
 
-* GitHub: [github.com/pratycodes](https://github.com/pratycodes)
-* LinkedIn: [linkedin.com/in/pratyush-baliarsingh/](https://www.linkedin.com/in/pratyush-baliarsingh/)
 * Email: [pratyush.baliarsingh2004@gmail.com](mailto:pratyush.baliarsingh2004@gmail.com)
 
