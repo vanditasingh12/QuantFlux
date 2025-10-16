@@ -186,5 +186,3 @@ MIT License. See [LICENSE](LICENSE) for full details.
 ---
 
 
-* Email: [pratyush.baliarsingh2004@gmail.com](mailto:pratyush.baliarsingh2004@gmail.com)
-
